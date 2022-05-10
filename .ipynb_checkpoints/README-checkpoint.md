@@ -11,8 +11,6 @@ The S&P500 is a stock market index that tracks the stocks of 500 large-cap U.S. 
 
 ![S&P500 performance during the last three years](Images/sp500_performance.png)
 
-![Bitcoin performance during the last three years](Images/BTC_3years_performance.png)
-
 </details>
 
 <details>
